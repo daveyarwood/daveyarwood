@@ -1,4 +1,4 @@
-Hey! 👋 Thanks for stopping by. A little bit about me:
+Hey! 👋 Thanks for stopping by. Here's a little bit about me:
 
 * 🎼 I created [Alda] (2012 - present), a music programming language
 * 💼 I'm a full-stack Senior Software Engineer at [Kevel] (2014 - present),
