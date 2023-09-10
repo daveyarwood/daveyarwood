@@ -17,6 +17,7 @@ Hey! 👋 Thanks for stopping by. Here's a little bit about me:
 role, please have a look at [my resume] and let's get in touch:
 
 * 📬 [Email]
+* 🌐 [Website]
 * 🤝 [LinkedIn]
 * 🐦 [Twitter]
 
@@ -25,5 +26,6 @@ role, please have a look at [my resume] and let's get in touch:
 [Trash Signal]: https://trashsignal.bandcamp.com
 [my resume]: https://djy.io/resume.pdf
 [Email]: mailto:dave.yarwood@gmail.com?subject=Hi+Dave!
+[Website]: https://djy.io
 [LinkedIn]: https://www.linkedin.com/in/dave-yarwood/
 [Twitter]: https://twitter.com/dave_yarwood
