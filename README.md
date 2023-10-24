@@ -1,10 +1,8 @@
 Hey! 👋 Thanks for stopping by. Here's a little bit about me:
 
 * 🎼 I created [Alda] (2012 - present), a music programming language
-* 💼 I'm a Senior Software Engineer at [GovSpend]. Before that, I was a Senior
-  Software Engineer at [Kevel] (2014 - 2023), working on the UI's, API's, and
-  SDK's that enabled customers to build their own custom ad servers with minimal
-  effort and take back the internet from the ad tech giants.
+* 💼 I'm a Senior Software Engineer at [GovSpend] (2023-). Before that, I was a
+  Senior Software Engineer at [Kevel] (2014 - 2023).
 * 🧠 I'm an expert in Clojure, distributed systems, and creative problem
   solving
 * 🎸 I'm a trained musician and I know how to play more instruments than I can
