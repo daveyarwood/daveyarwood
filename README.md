@@ -9,7 +9,7 @@ Hey! 👋 Thanks for stopping by. Here's a little bit about me:
   keep track of 😵‍💫
 * ♫ My latest musical endeavor is playing drums in a synth punk band called
   [Trash Signal] _(check us out on your favorite streaming platform!)_.
-* 🥋 I have a Combatives belt in Brazilian jiu-jitsu
+* 🥋 I have a blue belt in Brazilian jiu-jitsu
 
 And some links:
 
